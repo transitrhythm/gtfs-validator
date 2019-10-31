@@ -1,0 +1,4 @@
+github.com/im7mortal/UTM v1.2.0 h1:+zEEbRNrhM8QUspF6G+iOgZ2L7wLXOppdv09FgDES/w=
+github.com/im7mortal/UTM v1.2.0/go.mod h1:2NjXqikKdBoolkoo3OEDLoxWW5thIIP4Wr76RBAtrYU=
+github.com/patrickbr/gtfsparser v0.0.0-20190626145000-1a9ecb04a337 h1:iUYS+7aoFfBHUjABLHQVnOfhfqjHCRRYnhvyoTyt+iY=
+github.com/patrickbr/gtfsparser v0.0.0-20190626145000-1a9ecb04a337/go.mod h1:L88c76QEIfk3Z5pr1S715jfv1EIEVZ7BvNiefxz4o3o=
